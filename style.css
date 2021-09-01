@@ -1,0 +1,24 @@
+h1{
+    margin-bottom: 30px;
+    color: black;
+    text-decoration: underline;
+}
+input{
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    background-color: whitesmoke;
+    border: solid;
+    font-weight: bold;
+}
+button{
+    margin-bottom: 20px;
+    background-color:brown;
+    font-weight: bold;
+}
+hr{
+    margin-bottom: 15px;
+}
+body{
+    background: linear-gradient(90deg, rgba(235,0,90,1) 0%, rgba(226,78,225,1) 50%, rgba(253,0,99,1) 100%);
+}
